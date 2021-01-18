@@ -1,6 +1,6 @@
 # MIAO
 <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT with 996.ICU-yellow.svg">
+    <img src="https://img.shields.io/badge/License-MIT with Anti996-yellow.svg">
 </a>
   
 - - -
